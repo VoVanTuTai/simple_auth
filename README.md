@@ -25,9 +25,9 @@ bash
 Copy code
 node cookie_auth.js
 Kiểm tra API
-<img width="960" height="540" alt="3000" src="https://github.com/VoVanTuTai/simple_auth/blob/main/Images_report/data_in_mongo.png" />
 POST: http://localhost:3001/login
 <img width="960" height="540" alt="3000" src="https://github.com/VoVanTuTai/simple_auth/blob/main/Images_report/3001_login.png" />
+<img width="960" height="540" alt="3000" src="https://github.com/VoVanTuTai/simple_auth/blob/main/Images_report/data_in_mongo.png" />
 GET: http://localhost:3001/profile
 <img width="960" height="540" alt="3000" src="https://github.com/VoVanTuTai/simple_auth/blob/main/Images_report/3001_profile.png" />
 GET: http://localhost:3001/logout
